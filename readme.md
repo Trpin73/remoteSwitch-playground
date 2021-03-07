@@ -1,4 +1,4 @@
-# remoteSwitch Playground
+U# remoteTrpinsPlayground
 
 This repository contains the sources to the [remoteSwitch](github.com/dh1tw/remoteSwitch) playground at [demo.switch.shackbus.org](demo.switch.shackbus.org).
 
